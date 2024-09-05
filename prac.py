@@ -1,2 +1,5 @@
 for i in range(5):
-    print("git & github")
+    print("git")
+
+for i in range(5):
+    print("github")
