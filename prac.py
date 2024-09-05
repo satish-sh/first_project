@@ -3,4 +3,6 @@ for i in range():
 
 for i in range(10):
     print("github")
- 
+
+for i in range(22):
+    print("satishsh")
