@@ -2,4 +2,8 @@ adding new branch as feature1
 adding feature2
 adding multilines comment for commit 
 adding 4 th line\
-adding 5 th line
+adding 5 th line 
+adding feature 4
+adding feature 5 
+adding feature 6
+adding feature 7dfsf
