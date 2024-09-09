@@ -13,10 +13,3 @@ def generate_password(length=12):
     
     return password
 
-a = 1 
-b = 2
-for i in range(5):
-    print(1+2)
-
-print("adding new elements")
-print("checking the statements")
