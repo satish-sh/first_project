@@ -1,10 +1,7 @@
-for i in range():
-    print("git")
-
 import random
 import string
 
-def generate_password(length=12):
+def generate_password(length):
     # Define the characters to use in the password
     characters = string.ascii_letters + string.digits + string.punctuation
     
@@ -13,10 +10,5 @@ def generate_password(length=12):
     
     return password
 
-a = 1 
-b = 2
-for i in range(5):
-    print(1+2)
-
-print("adding new elements")
-print("checking the statements")
+password = generate_password(6)
+print(f"your password is: {password}")
